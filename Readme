@@ -1,0 +1,19 @@
+Utilizado na contrusção dessa api
+.Express + Zod + Prisma 
+.SQLite (apenas para testes) 
+.Vitest para testes automatizados 
+.Arquitetura limpa e escalável
+
+
+Pra rodar a api baixe os fontes do repositorio git no endereço:
+rode os comando: 
+.cd api-frota-express
+.npm install
+.foi criado testes basicos para rodar e verificar se api esta correta comando abaixo!
+.npm test
+.npm run dev
+
+Testando a api no postman
+Criando um novo veiculo:
+
+obs pronto para realizar os teste via postman
