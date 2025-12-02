@@ -9,6 +9,8 @@ Pra rodar a api baixe os fontes do repositorio git no endereço git: https://git
 rode os comando: 
 .cd api-frota-express
 .npm install
+.npx prisma generate
+.npx prisma migrate dev --name init
 .npm test
 .npm run dev
 
