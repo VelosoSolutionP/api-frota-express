@@ -23,7 +23,7 @@ Editando um veiculo:
 <img width="1523" height="872" alt="image" src="https://github.com/user-attachments/assets/e86462c8-1271-480b-8ef8-7be6fde58bf6" />
 
 Excluir um veiculo:
-<img width="1477" height="876" alt="image" src="https://github.com/user-attachments/assets/95646f71-7bc1-4b99-8ba3-34246498f28e" />
+<img width="1528" height="872" alt="image" src="https://github.com/user-attachments/assets/d5b5b269-065f-4f6b-a5c3-abeb66487f8a" />
 
 Recuperar um automóvel cadastrado pelo seu identificador único:
 <img width="1486" height="860" alt="image" src="https://github.com/user-attachments/assets/266c0b0a-0198-4d63-b9f3-ea16396800d8" />
